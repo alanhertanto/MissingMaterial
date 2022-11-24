@@ -1,0 +1,73 @@
+[
+    {
+      "RendererName": "CC_Base_Tongue",
+      "MaterialNameList": [
+        "Std_Tongue_Pbr"
+      ]
+    },
+    {
+      "RendererName": "CC_Base_Body",
+      "MaterialNameList": [
+        "Std_Skin_Head_Pbr",
+        "Std_Skin_Body_Pbr",
+        "Std_Skin_Arm_Pbr",
+        "Std_Skin_Leg_Pbr",
+        "Std_Nails_Pbr",
+        "Std_Eyelash_Pbr"
+      ]
+    },
+    {
+      "RendererName": "Bra",
+      "MaterialNameList": [
+        "Bra_Pbr"
+      ]
+    },
+    {
+      "RendererName": "Underwear_Bottoms",
+      "MaterialNameList": [
+        "Underwear_Bottoms_Pbr"
+      ]
+    },
+    {
+      "RendererName": "CC_Base_Eye",
+      "MaterialNameList": [
+        "Std_Eye_R_Pbr",
+        "Std_Cornea_R_Pbr",
+        "Std_Eye_L_Pbr",
+        "Std_Cornea_L_Pbr"
+      ]
+    },
+    {
+      "RendererName": "CC_Base_Teeth",
+      "MaterialNameList": [
+        "Std_Upper_Teeth_Pbr",
+        "Std_Lower_Teeth_Pbr"
+      ]
+    },
+    {
+      "RendererName": "CC_Base_TearLine",
+      "MaterialNameList": [
+        "Std_Tearline_R_Pbr",
+        "Std_Tearline_L_Pbr"
+      ]
+    },
+    {
+      "RendererName": "CC_Base_EyeOcclusion",
+      "MaterialNameList": [
+        "Std_Eye_Occlusion_R_Pbr",
+        "Std_Eye_Occlusion_L_Pbr"
+      ]
+    },
+    {
+      "RendererName": "Dress",
+      "MaterialNameList": [
+        "Dress_Pbr"
+      ]
+    },
+    {
+      "RendererName": "Hair",
+      "MaterialNameList": [
+        "embed_hair_male_Transparency_Pbr"
+      ]
+    }
+  ]

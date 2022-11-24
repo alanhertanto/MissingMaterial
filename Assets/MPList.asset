@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4f8b59e7d9756742b25ade955fb2f30, type: 3}
+  m_Name: MPList
+  m_EditorClassIdentifier: 
+  MPLists:
+  - ObjectName: MAN_WITH_HAIR_NORMAL_EXPORT
+    MaterialNameList:
+    - Std_Tongue_Pbr
+    - Std_Skin_Head_Pbr
+    - Std_Skin_Body_Pbr
+    - Std_Skin_Arm_Pbr
+    - Std_Skin_Leg_Pbr
+    - Std_Nails_Pbr
+    - Std_Eyelash_Pbr
+    - Bra_Pbr
+    - Underwear_Bottoms_Pbr
+    - Std_Eye_R_Pbr
+    - Std_Cornea_R_Pbr
+    - Std_Eye_L_Pbr
+    - Std_Cornea_L_Pbr
+    - Std_Upper_Teeth_Pbr
+    - Std_Lower_Teeth_Pbr
+    - Std_Tearline_R_Pbr
+    - Std_Tearline_L_Pbr
+    - Std_Eye_Occlusion_R_Pbr
+    - Std_Eye_Occlusion_L_Pbr
+    - Dress_Pbr
+    - embed_hair_male_Transparency_Pbr
+    RendererMateriaList:
+    - RendererName:
+      - CC_Base_Tongue
+      - CC_Base_Body
+      - CC_Base_Body
+      - CC_Base_Body
+      - CC_Base_Body
+      - CC_Base_Body
+      - CC_Base_Body
+      - Bra
+      - Underwear_Bottoms
+      - CC_Base_Eye
+      - CC_Base_Eye
+      - CC_Base_Eye
+      - CC_Base_Eye
+      - CC_Base_Teeth
+      - CC_Base_Teeth
+      - CC_Base_TearLine
+      - CC_Base_TearLine
+      - CC_Base_EyeOcclusion
+      - CC_Base_EyeOcclusion
+      - Dress
+      - Hair
+      MaterialNameList:
+      - Std_Tongue_Pbr
+      - Std_Skin_Head_Pbr
+      - Std_Skin_Body_Pbr
+      - Std_Skin_Arm_Pbr
+      - Std_Skin_Leg_Pbr
+      - Std_Nails_Pbr
+      - Std_Eyelash_Pbr
+      - Bra_Pbr
+      - Underwear_Bottoms_Pbr
+      - Std_Eye_R_Pbr
+      - Std_Cornea_R_Pbr
+      - Std_Eye_L_Pbr
+      - Std_Cornea_L_Pbr
+      - Std_Upper_Teeth_Pbr
+      - Std_Lower_Teeth_Pbr
+      - Std_Tearline_R_Pbr
+      - Std_Tearline_L_Pbr
+      - Std_Eye_Occlusion_R_Pbr
+      - Std_Eye_Occlusion_L_Pbr
+      - Dress_Pbr
+      - embed_hair_male_Transparency_Pbr
+  RMLists:
+  - RendererName: CC_Base_Tongue
+    MaterialNameList:
+    - Std_Tongue_Pbr
+  - RendererName: CC_Base_Body
+    MaterialNameList:
+    - Std_Skin_Head_Pbr
+    - Std_Skin_Body_Pbr
+    - Std_Skin_Arm_Pbr
+    - Std_Skin_Leg_Pbr
+    - Std_Nails_Pbr
+    - Std_Eyelash_Pbr
+  - RendererName: Bra
+    MaterialNameList:
+    - Bra_Pbr
+  - RendererName: Underwear_Bottoms
+    MaterialNameList:
+    - Underwear_Bottoms_Pbr
+  - RendererName: CC_Base_Eye
+    MaterialNameList:
+    - Std_Eye_R_Pbr
+    - Std_Cornea_R_Pbr
+    - Std_Eye_L_Pbr
+    - Std_Cornea_L_Pbr
+  - RendererName: CC_Base_Teeth
+    MaterialNameList:
+    - Std_Upper_Teeth_Pbr
+    - Std_Lower_Teeth_Pbr
+  - RendererName: CC_Base_TearLine
+    MaterialNameList:
+    - Std_Tearline_R_Pbr
+    - Std_Tearline_L_Pbr
+  - RendererName: CC_Base_EyeOcclusion
+    MaterialNameList:
+    - Std_Eye_Occlusion_R_Pbr
+    - Std_Eye_Occlusion_L_Pbr
+  - RendererName: Dress
+    MaterialNameList:
+    - Dress_Pbr
+  - RendererName: Hair
+    MaterialNameList:
+    - embed_hair_male_Transparency_Pbr
