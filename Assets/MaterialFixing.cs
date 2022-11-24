@@ -124,7 +124,6 @@ public class MaterialFixing : MonoBehaviour
                             if (listOriginalFBX.RendererName == ren.name)
                             {
                                 int indexke = k;
-                                Debug.Log(indexke);
                                 foreach (var jumlahMaterial in MpList.RMLists[indexke].MaterialNameList)
                                 {
                                     var mate = Materialx.Where(x => x.name == jumlahMaterial).FirstOrDefault();
@@ -134,7 +133,6 @@ public class MaterialFixing : MonoBehaviour
                                     }
                                     else
                                     {
-                                        Debug.Log(jumlahMaterial);
                                         EffectMaterial.Add(mate);
                                     }
                                 }
